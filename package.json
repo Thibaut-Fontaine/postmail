@@ -1,0 +1,16 @@
+{
+  "name": "postmail",
+  "version": "1.0.0",
+  "description": "http.Post() this server will send an e-mail",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "nodemailer": "^4.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Thibaut Fontaine",
+  "license": "GPL"
+}
